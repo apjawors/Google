@@ -1,0 +1,132 @@
+
+.header {
+	width: 100%;
+	height: 40px;
+	margin-top: 0px;
+	position: absolute;
+	color: #222;
+	}
+	
+.header_info{
+	position: relative;
+	float: right;
+	min-width: 347px;
+	z-index: 987;
+	text-align: right;}
+
+#name, #email, #images, #apps, #notifications, #account {
+	position: relative;
+	display: inline-block;
+	margin-top: 10px;
+	margin-left: 5px;
+	font-family: arial, sans-serif;
+	padding-left: 10px;
+	padding-right: 10px;
+	font-size: 13px;
+	line-height: 24px;
+	color: black;
+	float: left;
+	}
+	
+div a {
+	text-decoration: none;
+	color: black;
+	}
+
+#name:hover, #email:hover, #images:hover{	
+	text-decoration: underline;}
+	
+#name:visited, #email:visited, #images:visited{
+	color: black;
+	}
+
+.search{
+	float: center;
+	position: absolute;
+	margin-top: 301px;
+	margin-left: 667px;
+	padding-bottom: 2px;
+	padding-top: 3px;
+	font-size: 13px;
+	color: rgb(34, 34, 34);
+	}
+	
+
+.google_image {
+	margin: 178px 0 0 810px;
+	position: absolute;
+	width: 15px;}
+
+#search_engine {
+	width: 550px;
+	height: 21px;
+	font-size: 16px;
+	padding: 5px 9px 0;
+	font-family: arial, sans-serif;
+	line-height: 0;
+	white-space: nowrap;
+	}
+	
+
+form img {
+	float: right;
+	margin-top: -27px;
+	margin-right: 3px;
+	position: relative;
+	}
+	
+#google_search, #feeling_lucky {
+	height: 29px;
+	padding-left: 8px;
+	padding-right: 8px;
+	position: relative;
+	display: in-line;
+	font-size: 11px;
+	font-weight: bold;
+	margin-top: 15px;
+	}
+	
+#google_search {
+	width: 96px;
+	margin-left: 175px;
+	}
+	
+#feeling_lucky {
+	width: 111px;
+	margin-left: 15px;
+	}
+	
+.footer {
+	width: 100%;
+	height: 40px;
+	background-color: #f2f2f2;
+	bottom: -906px;
+	position: relative;
+	color: #f2f2f2;
+	}
+	
+div ul li{
+	position: relative;
+	display: inline;
+	padding: 10px;
+	}
+	
+div ul a {
+	text-decoration: none;
+	color: #666;
+	font-size: 13px;
+	font-family: arial, sans-serif;
+	padding: 5px;
+	}
+	
+div ul a:hover {
+	text-decoration: underline;}
+	
+#left {
+	float: left;
+	margin-left: -10px;}
+	
+#right {
+	float: right;}
+	
+	
